@@ -11,5 +11,8 @@
     "scripts": {
         "deploy-config": "npx -p @sap/ux-ui5-tooling fiori add deploy-config cf"
     },
+    "dependencies": {
+        "ui5-cc-spreadsheetimporter": "^1.1.1"
+    },
     "devDependencies": { }
 }
